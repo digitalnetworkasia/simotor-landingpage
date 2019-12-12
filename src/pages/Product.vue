@@ -1,0 +1,27 @@
+<template>
+  <div>
+    <header class="pd-gradient">
+      <div class="container mt-5">
+        <div class="text-center text-monospace">
+          <h2>Iklan Unit Motor</h2>
+        </div>
+
+        <br />
+      </div>
+    </header>
+    <div class="card" style="width: 16rem;">
+      <img src="images/bg-1.png" class="card-img-top" alt="iklan" />
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p
+          class="card-text"
+        >Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+      </div>
+    </div>
+  </div>
+</template>
+
+<script>
+export default {};
+</script>
