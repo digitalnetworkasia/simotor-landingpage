@@ -265,10 +265,16 @@ header {
 }
 
 .pd-gradient {
-  background-image: -moz-linear-gradient( 135deg, #7ed6df 25%, #c7ecee 75%);
+  background-image: -moz-linear-gradient( 135deg, #8ae0c6 25%, #c7ecee 75%);
   background-image: -webkit-linear-gradient( 135deg,#7ed6df 25%, #c7ecee 75%);
   background-image: -ms-linear-gradient( 135deg, #7ed6df 25%, #c7ecee 75%);
   background-image: linear-gradient( 135deg, #7ed6df 25%, #c7ecee 75%);
+}
+.bn-gradient {
+  background-image: -moz-linear-gradient( 135deg, #8ae0c6 25%, #c7ecee 75%);
+  background-image: -webkit-linear-gradient( 135deg,#8ae0c6 25%, #c7ecee 75%);
+  background-image: -ms-linear-gradient( 135deg, #8ae0c6 25%, #c7ecee 75%);
+  background-image: linear-gradient( 135deg, #8ae0c6 25%, #c7ecee 75%);
 }
 
 .tagline {

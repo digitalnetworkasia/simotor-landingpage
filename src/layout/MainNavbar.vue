@@ -33,7 +33,7 @@
             <a class="nav-link" href="#faq" target="_blank">FAQ</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#contact">CONTACT</a>
+            <a class="nav-link" href="#contact" target="_blank">CONTACT</a>
           </li>
         </ul>
         <!-- <form class="form-inline my-2 my-lg-0">

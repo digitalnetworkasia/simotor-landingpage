@@ -101,13 +101,15 @@
               <div class="f_icon">
                 <img src="images/mobilehand.png" width="80px" />
               </div>
+              <div class="container">
+                <h2>Apa itu SiMotor?</h2>
 
-              <h2>Temukan Aplikasi Kami</h2>
-              <p>
-                Sepeda motor sudah menjadi gaya hidup atau life style masyarakat di Indonesia.
-                Kebutuhan akan sepeda motor semakin meningkat. Disinilah SiMotor hadir sebagai
-                jawaban. Beli motor jadi semakin mudah dan cepat.
-              </p>
+                <p>
+                  Sepeda motor sudah menjadi gaya hidup atau lifestyle masyarakat di Indonesia, benar nggak?
+                  Oleh karena itu, kebutuhan akan sepeda motor juga meningkat dan kamu pasti ingin motor yang bagus dan berkualitas kan?
+                  Disinilah SiMotor hadir sebagai jawaban. Beli motor jadi semakin mudah, cepat, dan berkualitas.
+                </p>
+              </div>
             </div>
           </div>
         </div>
@@ -115,9 +117,9 @@
 
       <section class="feature_area" id="features">
         <div class="container">
-          <div class="c_title">
+          <div class="section-title">
             <img src="images/icons.png" width="92px" alt />
-            <h6>Apa aja fitur unggulan kami?</h6>
+            <h6>Apa aja fitur unggulan SiMotor?</h6>
             <h2>Fitur SiMotor</h2>
           </div>
 
@@ -164,13 +166,13 @@
 
       <!-- // end .section -->
 
-      <div class="section light-bg">
+      <div class="section bn-gradient">
         <div class="container">
           <div class="section-title">
             <h6>Gimana cara transaksi di SiMotor?</h6>
             <h2 class="c_title">Yuk kita simak cara transaksi!</h2>
           </div>
-          <ul class="nav nav-tabs nav-justified" role="tablist">
+          <ul class="nav nav-tabs nav-justified pd-gradient" role="tablist">
             <li class="nav-item">
               <a class="nav-link active" data-toggle="tab" href="#iklan">1. Register/Login</a>
             </li>
@@ -178,7 +180,7 @@
               <a class="nav-link" data-toggle="tab" href="#schedule">2. Pasang Iklan</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" data-toggle="tab" href="#messages">3. Tiket Tawar Bersama</a>
+              <a class="nav-link" data-toggle="tab" href="#messages">3. Telusuri Iklan</a>
             </li>
           </ul>
           <div class="tab-content">
@@ -193,9 +195,9 @@
                 <div>
                   <h2>Registrasi/Login</h2>
                   <p>
-                    Kamu harus mengunduh aplikasi SiMotor terlebih dahulu di PlayStore sebelum melakukan login atau registrasi pada aplikasi.
-                    Setelah itu kamu dapat melakukan registrasi akun dengan memasukkan
-                    nama lengkap dan nomor handphone, atau kamu juga dapat menggunakan email kamu.
+                    Kamu harus mengunduh aplikasi SiMotor terlebih dahulu di Google PlayStore sebelum melakukan login atau registrasi pada aplikasi.
+                    Setelah itu kamu dapat melakukan registrasi akun dengan menggunakan
+                    nomor handphone, atau kamu juga dapat menggunakan akun Google kamu.
                   </p>
                 </div>
               </div>
@@ -215,7 +217,13 @@
                     Kamu dapat membuat iklan unit motormu sendiri di aplikasi android.
                     Unit harus ditambahkan terlebih dahulu sebelum kamu memasang iklan unit motormu tersebut.
                     Kelengkapan data-data unit motor sangat diwajibkan sehingga
-                    informasi yang dimasukkan harus benar dan sesuai.
+                    informasi yang dimasukkan harus benar dan sesuai. Kamu juga bisa menawar unit motor yang
+                    tersedia.
+                  </p>
+                  <p>
+                    Kamu bisa memasang iklanmu sebagai iklan harga pas atau tawar bersama. Pada iklan harga pas
+                    kamu menentukan harga unit motor dan pembeli tidak dapat menawar iklanmu. Sedangkan pada iklan tawar bersama
+                    pembeli dapat melakukan penawaran pada iklan tersebut.
                   </p>
                 </div>
               </div>
@@ -229,12 +237,12 @@
                   class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0"
                 />
                 <div>
-                  <h2>Tiket Tawar Bersama</h2>
+                  <h2>Telusuri Iklan</h2>
                   <p>
-                    Tiket ini digunakan khusus untuk iklan tawar bersama.
-                    Keuntungannya adalah user dapat melakukan penawaran harga unit motor.
-                    Pemenangnya adalah yang melakukan penawaran tertinggi. Namun,
-                    tiket tetap akan dikembalikan kepada user yang menang/kalah jadi jangan takut tiket kamu hangus.
+                    Sebagai pembeli, kamu dapat melakukan transaksi pada iklan harga pas dan
+                    melakukan penawaran pada iklan tawar bersama melalui aplikasi SiMotor. Caranya mudah banget,
+                    kamu hanya perlu menelusuri iklan pada halaman utama aplikasi SiMotor lalu pilih iklan yang sesuai dengan
+                    keinginan kamu.
                   </p>
                 </div>
               </div>
@@ -242,6 +250,37 @@
           </div>
         </div>
       </div>
+      <!-- <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="images/banner1.png" class="d-block w-75 align-middle" alt="..." />
+          </div>
+          <div class="carousel-item">
+            <img src="images/banner2s.png" class="d-block w-75 align-middle" alt="..." />
+          </div>
+          <div class="carousel-item">
+            <img src="images/vario.jpeg" class="d-block w-50" alt="..." />
+          </div>
+        </div>
+        <a
+          class="carousel-control-prev"
+          href="#carouselExampleControls"
+          role="button"
+          data-slide="prev"
+        >
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a
+          class="carousel-control-next"
+          href="#carouselExampleControls"
+          role="button"
+          data-slide="next"
+        >
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div>-->
       <!-- // end .section -->
       <!-- // end .section
       <div class="section light-bg">

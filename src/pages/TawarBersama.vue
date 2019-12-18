@@ -3,16 +3,14 @@
  <template>
   <div>
     <header class="bg-gradient" id="kebijakan">
-      <div class="container mt-5">
-        <img src="images/banner web tawar bersama.png" width="350px" />
+      <div class="container mt-3">
+        <img src="images/banner web tawar bersama.png" width="800px" />
         <br />
         <br />
       </div>
     </header>
-    <br />
-    <br />
 
-    <div class="site-section">
+    <div class="site-section bn-gradient">
       <div class="container">
         <div class="row mb-5 justify-content-center">
           <div class="col-md-6 text-center">
@@ -23,8 +21,9 @@
             </div>
             <br />
             <p>
-              Jika kamu memiliki tiket tawar bersama kamu dapat menggunakan fitur ini.
+              Tawar bersama merupakan sebuah fitur di SiMotor yang terdapat pilihan untuk menawar unit.
               Keuntungannya adalah kamu dapat melakukan penawaran sehingga harga dan barang yang akan kamu beli sesuai dengan kebutuhan kamu.
+              Tawar bersama terdiri dari 2 (dua) yaitu tawar bersama satuan dan tawar bersama paketan. Perbedaaannya hanya pada jumlah unit motor yang dijual.
             </p>
           </div>
         </div>

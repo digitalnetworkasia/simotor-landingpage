@@ -13,13 +13,13 @@
     <div class="site-section">
       <div class="container">
         <div class="row mb-5 justify-content-center">
-          <div class="col-md-6 text-center">
+          <div class="col-md-10 text-center">
             <!-- <h2>Frequently Asked Questions</h2> -->
 
-            <p>Q: Bagaimana cara mencari motor bekas di SiMotor?</p>
+            <p>Q: Bagaimana cara mencari motor bekas di aplikasi SiMotor?</p>
             <p
               class="font-weight-bold"
-            >A: Anda bisa mencari kendaraan dengan menggunakan kotak pencarian di halaman utama Carmudi, cukup dengan memilih merk dan model yang Anda inginkan dan klik tombol "Cari". Anda juga bisa menggunakan kota pencarian "kata kunci" jika Anda mencari secara spesifik (seperti warna, fitur, dll).</p>
+            >A: Anda bisa mencari kendaraan dengan menggunakan kotak pencarian di halaman utama aplikasi SiMotor, cukup dengan memilih merk dan model yang Anda inginkan dan klik tombol "Cari". Anda juga bisa menggunakan kota pencarian "kata kunci" jika Anda mencari secara spesifik (seperti warna, fitur, dll).</p>
             <p>Q: Bagaimana mengetahui jika motor yang saya suka masih ada ?</p>
             <p
               class="font-weight-bold"
@@ -35,24 +35,32 @@
             </p>
             <p>Q: Bagaimana cara jual motor di SiMotor?</p>
             <p class="font-weight-bold">A:</p>
-            <p class="font-weight-bold">-Download Aplikasi SiMotor yang ada di Playstore</p>
             <p
-              class="font-weight-bold"
+              class="font-weight-bold ml-2 ml-lg-2 md-2"
+            >-Download Aplikasi SiMotor yang ada di Playstore</p>
+            <p
+              class="font-weight-bold ml-2 ml-lg-2 md-2"
             >-Pilih jenis iklan motor apa yang akan anda iklankan,contoh seperti ‘satuan atau paketan’</p>
-            <p class="font-weight-bold">-Lengkapi Form jual motor seperti:</p>
-            <p class="font-weight-bold">a. Identitas pemilik motor (nama dan alamat)</p>
-            <p class="font-weight-bold">b. Data kendaraan (STNK, BPKB dan faktur)</p>
-            <p class="font-weight-bold">c. Foto unit motor</p>
-            <p class="font-weight-bold">d. Kilometer motor</p>
-            <p class="font-weight-bold">e. Harga jual yang diinginkan</p>
+            <p class="font-weight-bold ml-2 ml-lg-2 md-2">-Lengkapi Form jual motor seperti:</p>
+            <p
+              class="font-weight-bold ml-3 ml-lg-3 md-3"
+            >a. Identitas pemilik motor (nama dan alamat)</p>
+            <p class="font-weight-bold ml-3 ml-lg-3 md-">b. Data kendaraan (STNK, BPKB dan faktur)</p>
+            <p class="font-weight-bold ml-3 ml-lg-3 md-">c. Foto unit motor</p>
+            <p class="font-weight-bold ml-3 ml-lg-3 md-">d. Kilometer motor</p>
+            <p class="font-weight-bold ml-3 ml-lg-3 md-">e. Harga jual yang diinginkan</p>
             <p>Q: Bagaimana cara membeli motor di SiMotor?</p>
             <p class="font-weight-bold">A:</p>
-            <p class="font-weight-bold">- Download Aplikasi SiMotor yang ada di Playstore</p>
-            <p class="font-weight-bold">-Pilih motor yang Anda inginkan di aplikasi SiMotor :</p>
-            <p class="font-weight-bold">-Tipe motor yang ingin dibeli</p>
-            <p class="font-weight-bold">-Domisili (kota tempat tinggal)</p>
             <p
-              class="font-weight-bold"
+              class="font-weight-bold ml-2 ml-lg-2 md-2"
+            >- Download Aplikasi SiMotor yang ada di Playstore</p>
+            <p
+              class="font-weight-bold ml-2 ml-lg-2 md-2"
+            >-Pilih motor yang Anda inginkan di aplikasi SiMotor :</p>
+            <p class="font-weight-bold ml-2 ml-lg-2 md-2">-Tipe motor yang ingin dibeli</p>
+            <p class="font-weight-bold ml-2 ml-lg-2 md-2">-Domisili (kota tempat tinggal)</p>
+            <p
+              class="font-weight-bold ml-2 ml-lg-2 md-2"
             >-Cara pembayaran motor (tunai/kredit) (jika kredit, pembeli diminta menyerahkan data untuk pengajuan kredit)</p>
           </div>
         </div>

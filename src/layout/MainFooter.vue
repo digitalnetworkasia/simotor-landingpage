@@ -12,7 +12,9 @@
                   class="footer_text"
                 >SiMotor adalah platform pertama di Indonesia yang berfokus pada penjualan motor dengan metode tawar bersama.</p>
                 <p class="footer_text">Download di PlayStore :</p>
-                <img src="images/playstore.png" width="200px" class="img-fluid" />
+                <a href="/">
+                  <img src="images/playstore.png" width="200px" class="img-fluid" />
+                </a>
               </div>
             </div>
             <div class="offset-lg-1 col-lg-2 col-md-6 col-sm-6">
@@ -70,13 +72,13 @@
                   <p class="footer_text">
                     <span>
                       <font-awesome-icon icon="building" />
-                    </span> Menara Kirana 2 Lantai 10 A, Jl. Boulevard Timur Street No.88 Pegangsaan 2, Kelapa Gading, Jakarta Utara
+                    </span> Menara Kirana 2 Lantai 10 A, Jl. Boulevard Timur No.88 Pegangsaan 2, Kelapa Gading, Jakarta Utara
                   </p>
 
                   <p class="footer_text">
                     <span>
                       <font-awesome-icon icon="phone" />
-                    </span> 021-30490087
+                    </span> (021) - 30490087
                   </p>
 
                   <p class="footer_text">
