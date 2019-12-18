@@ -15,8 +15,9 @@
         <div class="row mb-5 justify-content-center">
           <div class="col-md-10 text-center">
             <!-- <h2>Frequently Asked Questions</h2> -->
-
-            <p>Q: Bagaimana cara mencari motor bekas di aplikasi SiMotor?</p>
+            <p>Q: Bagaimana cara menjadi akun verified di aplikasi SiMotor?</p>
+            <p class="font-weight-bold">A: Silakan menghubungi support@simotor.id</p>
+            <p>Q: Bagaimana cara mencari motor di aplikasi SiMotor?</p>
             <p
               class="font-weight-bold"
             >A: Anda bisa mencari kendaraan dengan menggunakan kotak pencarian di halaman utama aplikasi SiMotor, cukup dengan memilih merk dan model yang Anda inginkan dan klik tombol "Cari". Anda juga bisa menggunakan kota pencarian "kata kunci" jika Anda mencari secara spesifik (seperti warna, fitur, dll).</p>
