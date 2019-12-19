@@ -1,16 +1,14 @@
 <template>
   <div>
-    <header class="bg-gradient" id="kebijakan">
-      <div class="container mt-5">
-        <img src="images/banner web faq.png" width="500px" class="img-fluid" />
+    <header class="bg-gradient">
+      <div class="container mt-3">
+        <img src="images/banner web faq.png" width="800px" class="img-fluid" />
         <br />
         <br />
       </div>
     </header>
-    <br />
-    <br />
 
-    <div class="site-section">
+    <div class="site-section bn-gradient">
       <div class="container">
         <div class="row mb-5 justify-content-center">
           <div class="col-md-10 text-center">

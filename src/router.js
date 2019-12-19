@@ -16,6 +16,7 @@ import Larangan from './pages/Larangan.vue'
 import SyaratKetentuan from './pages/Syarat.vue'
 import KodeEtik from './pages/KodeEtik.vue'
 import Contact from './pages/Contact.vue'
+import Panduan from './pages/Panduan.vue'
 
 Vue.use(Router);
 export default new Router({
@@ -125,6 +126,15 @@ export default new Router({
             path: '/contact',
             name: 'contact',
             components: { default: Contact, header: NavbarProduct, footer: FooterProduct },
+            props: {
+                header: { colorOnScroll: 400 },
+                footer: { backgroundColor: 'black' }
+            }
+        },
+        {
+            path: '/panduan',
+            name: 'panduan',
+            components: { default: Panduan, header: NavbarProduct, footer: FooterProduct },
             props: {
                 header: { colorOnScroll: 400 },
                 footer: { backgroundColor: 'black' }

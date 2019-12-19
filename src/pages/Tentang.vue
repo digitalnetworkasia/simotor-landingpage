@@ -11,7 +11,7 @@
     <div class="site-section bn-gradient">
       <div class="container">
         <div class="row mb-5 justify-content-center">
-          <div class="col-md-8 text-center">
+          <div class="col-md-10 text-center">
             <!-- <h2>Tentang SiMotor</h2> -->
             <br />
             <br />
