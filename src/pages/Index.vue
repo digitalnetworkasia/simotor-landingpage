@@ -2,7 +2,7 @@
   <div>
     <header class="bg-gradient" id="home">
       <div class="container mt-5">
-        <img src="images/logo SiMOTOR.png" width="300px" class="img-fluid" />
+        <img src="images/logosimotor.png" width="300px" class="img-fluid" />
         <br />
         <br />
         <a href="/">
