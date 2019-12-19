@@ -376,7 +376,5 @@
         </div>
       </div>
     </div>
-
-    <!-- // end .section -->
   </div>
 </template>

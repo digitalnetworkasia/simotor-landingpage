@@ -47,7 +47,7 @@
                 <div
                   class="overline mb-4"
                   style="color: indigo darken-4"
-                >{{ UnitsDetail.nama_user }}</div>
+                >{{ UnitsDetail.nama_pengguna }}</div>
 
                 <v-list-item-title class="headline2 mb-1">{{ item.type }}</v-list-item-title>
                 <v-list-item-subtitle>

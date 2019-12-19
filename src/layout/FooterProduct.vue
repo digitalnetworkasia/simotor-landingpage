@@ -56,6 +56,9 @@
                       target="_blank"
                     >Syarat dan Ketentuan</a>
                   </li>
+                  <li>
+                    <a class="footer_text" href="#panduan" target="_blank">Panduan Penggunaan</a>
+                  </li>
                 </ul>
               </div>
             </div>
