@@ -17,6 +17,7 @@ import SyaratKetentuan from './pages/Syarat.vue'
 import KodeEtik from './pages/KodeEtik.vue'
 import Contact from './pages/Contact.vue'
 import Panduan from './pages/Panduan.vue'
+import Panduan2 from './pages/Panduan2.vue'
 
 Vue.use(Router);
 export default new Router({
@@ -135,6 +136,15 @@ export default new Router({
             path: '/panduan',
             name: 'panduan',
             components: { default: Panduan, header: NavbarProduct, footer: FooterProduct },
+            props: {
+                header: { colorOnScroll: 400 },
+                footer: { backgroundColor: 'black' }
+            }
+        },
+        {
+            path: '/panduan2',
+            name: 'panduan2',
+            components: { default: Panduan2, header: NavbarProduct, footer: FooterProduct },
             props: {
                 header: { colorOnScroll: 400 },
                 footer: { backgroundColor: 'black' }

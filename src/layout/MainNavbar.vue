@@ -35,6 +35,10 @@
           <li class="nav-item">
             <a class="nav-link" href="#contact" target="_blank">CONTACT</a>
           </li>
+          <b-nav-item-dropdown text="PANDUAN PENGGUNA">
+            <b-dropdown-item href="#panduan" target="_blank">PANDUAN PENGGUNA PEMBELI</b-dropdown-item>
+            <b-dropdown-item href="#panduan2" target="_blank">PANDUAN PENGGUNA PENJUAL</b-dropdown-item>
+          </b-nav-item-dropdown>
         </ul>
         <!-- <form class="form-inline my-2 my-lg-0">
           <input class="form-control mr-sm-2" type="search" placeholder="Search" />

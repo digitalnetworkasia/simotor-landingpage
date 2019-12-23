@@ -20,6 +20,7 @@
               <img src="images/tawar bersama web.png" width="300px" />
             </div>
             <br />
+            <br />
             <p>
               Tawar bersama merupakan sebuah fitur di SiMotor yang terdapat pilihan untuk menawar unit.
               Keuntungannya adalah kamu dapat melakukan penawaran sehingga harga dan barang yang akan kamu beli sesuai dengan kebutuhan kamu.
