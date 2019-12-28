@@ -4,7 +4,7 @@
   <div>
     <header class="bg-gradient" id="kebijakan">
       <div class="container mt-3">
-        <img src="images/banner web tawar bersama.png" width="800px" />
+        <img src="images/banner web tawar bersama.png" width="800px" class="img-fluid" />
         <br />
         <br />
       </div>
@@ -17,7 +17,7 @@
             <h2>Tawar Bersama</h2>
             <br />
             <div class="f_icon">
-              <img src="images/tawar bersama web.png" width="300px" />
+              <img src="images/tawar bersama web.png" width="300px" class="img-fluid" />
             </div>
             <br />
             <br />
