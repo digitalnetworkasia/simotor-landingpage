@@ -11,7 +11,7 @@
     <div class="site-section bn-gradient">
       <div class="container">
         <div class="row mb-5 justify-content-center">
-          <div class="col-md-6">
+          <div class="col-md-6 white-gradient">
             <br />
             <h3 class="text-center">Silakan isi form dibawah ini:</h3>
             <br />

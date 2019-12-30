@@ -11,8 +11,7 @@
     <div class="site-section bn-gradient">
       <div class="container">
         <div class="row mb-5 justify-content-center">
-          <div class="col-md-10 text-center">
-            <br />
+          <div class="col-md-10 text-center white-gradient">
             <br />
             <p>
               Panduan Penggunaan bertujuan untuk memudahkan pengguna dalam menggunakan aplikasi SiMotor. Panduan penggunaan

@@ -11,9 +11,8 @@
     <div class="site-section bn-gradient">
       <div class="container">
         <div class="row mb-5 justify-content-center">
-          <div class="col-md-10 text-center">
+          <div class="col-md-10 text-center white-gradient">
             <!-- <h2>Syarat dan Ketentuan</h2> -->
-            <br />
             <br />
             <p>Selamat datang di SiMotor.</p>
             <p>

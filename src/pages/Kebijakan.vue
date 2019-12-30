@@ -11,9 +11,8 @@
     <div class="site-section bn-gradient">
       <div class="container">
         <div class="row mb-5 justify-content-center">
-          <div class="col-md-10 text-center">
+          <div class="col-md-10 text-center white-gradient">
             <!-- <h2>Kebijakan Privasi</h2> -->
-            <br />
             <br />
             <p class="font-weight-bold">Simotor ‐ Pernyataan Privasi</p>
             <p>
