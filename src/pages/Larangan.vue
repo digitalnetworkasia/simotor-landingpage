@@ -10,10 +10,9 @@
 
     <div class="site-section bn-gradient">
       <div class="container">
+        <br />
         <div class="row mb-5 justify-content-center">
           <div class="col-md-10 text-center white-gradient">
-            <!-- <h2>Larangan Iklan</h2> -->
-            <br />
             <p
               class="ml-2 ml-lg-2"
             >Pada dasarnya di dalam Layanan aplikasi atau pun situs Simotor barang yang diperbolehkan untuk diiklankan adalah sepeda motor dan/atau yang berkaitan dengan sepeda motor. Berikut ini adalah daftar barang dan jasa yang dilarang untuk dijual di Layanan aplikasi atau pun situs Simotor. Daftar barang dan jasa ini adalah bagian yang tak terpisahkan dari Syarat dan Ketentuan Layanan Simotor. Oleh karena itu apabila pengguna melakukan penjualan atas barang dan jasa yang dilarang sebagaimana dinyatakan dalam halaman ini, berarti juga telah melanggar Syarat dan Ketentuan Layanan Simotor, termasuk namun tidak terbatas pada penjelasan di bawah ini.</p>

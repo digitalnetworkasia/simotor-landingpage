@@ -10,10 +10,9 @@
 
     <div class="site-section bn-gradient">
       <div class="container">
+        <br />
         <div class="row mb-5 justify-content-center">
           <div class="col-md-10 text-center white-gradient">
-            <!-- <h2>Kode Etik Pengguna SiMotor</h2> -->
-            <br />
             <p
               class="ml-2 ml-lg-2"
             >SiMotor mempunyai kewajiban untuk menjalankan bisnisnya sesuai peraturan, undang-undang dan hukum yang berlaku. Kami berkomitmen membantu semua Pengguna agar bertindak demi terciptanya kepercayaan dan rasa hormat. Kode etik ini dimaksudkan sebagai panduan untuk menggunakan Layanan kami baik dalam bentuk Aplikasi atau pun Situs SiMotor dengan benar dan harus diikuti setiap waktu. Kode etik ini juga bagian yang tak terpisahkan dari Syarat dan Ketentuan Layanan SiMotor. Pelanggaran Kode Etik ini ditangani sesuai dengan Kebijakan Pelanggaran kami yang akan mengakibatkan tindakan pendisiplinan, hingga ke, dan termasuk, penutupan akun. Setiap pertanyaan mengenai Kode ini harus ditujukan ke Tim Dukungan SiMotor dengan mengirimkan email ke support@simotor.id dimana kami bisa memberikan Anda informasi tambahan mengenai prosedur yang benar untuk diikuti, dan mengatasi setiap permasalahan Anda yang berkaitan dengan layanan kami.</p>

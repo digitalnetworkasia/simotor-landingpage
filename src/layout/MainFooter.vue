@@ -88,7 +88,10 @@
                     <span>
                       <font-awesome-icon icon="envelope" />
                     </span>
-                    support@simotor.id
+                    <a
+                      class="footer_text"
+                      href="mailto:support@simotor.id?subject=Pengaduan Customer SiMotor &body=Nama: "
+                    >support@simotor.id</a>
                   </p>
                 </div>
               </div>

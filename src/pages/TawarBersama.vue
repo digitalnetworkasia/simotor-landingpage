@@ -12,10 +12,9 @@
 
     <div class="site-section bn-gradient">
       <div class="container">
+        <br />
         <div class="row mb-5 justify-content-center">
           <div class="col-md-6 text-center white-gradient">
-            <!-- <h2>Tawar Bersama</h2> -->
-            <br />
             <div class="f_icon">
               <img src="images/tawar bersama web.png" width="300px" class="img-fluid" />
             </div>

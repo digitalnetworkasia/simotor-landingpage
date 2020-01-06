@@ -10,10 +10,11 @@
 
     <div class="site-section bn-gradient">
       <div class="container">
+        <br />
         <div class="row mb-5 justify-content-center">
           <div class="col-md-10 text-center white-gradient">
             <!-- <h2>Frequently Asked Questions</h2> -->
-            <br />
+
             <p>Q: Bagaimana cara menjadi akun verified di aplikasi SiMotor?</p>
             <p class="font-weight-bold">A: Silakan menghubungi support@simotor.id</p>
             <p>Q: Bagaimana cara mencari motor di aplikasi SiMotor?</p>

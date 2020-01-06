@@ -10,10 +10,9 @@
 
     <div class="site-section bn-gradient">
       <div class="container">
+        <br />
         <div class="row mb-5 justify-content-center">
           <div class="col-md-10 text-center white-gradient">
-            <!-- <h2>Syarat dan Ketentuan</h2> -->
-            <br />
             <p>Selamat datang di SiMotor.</p>
             <p>
               Syarat dan Ketentuan ini adalah perjanjian antara pengguna (“Anda”) dan PT Langeng Mitra Utama (“Kami”),

@@ -13,102 +13,25 @@
     </header>
     <br />
     <div>
-      <!-- <div class="site-section" id="product">
-        <div class="container">
-          <div class="row mb-5 justify-content-center">
-            <div class="col-md-6 text-center">
-              <div class="f_icon">
-                <img src="images/motor.png " alt="Image" class="img-fluid" />
-      </div>-->
-      <!-- <h2>Produk Kami</h2>
-      <h6>Cek unit motor yang tersedia yuk!</h6>-->
-      <!-- </div>
-      </div>-->
-      <!-- 
-          <v-card class="mx-auto" outlined>
-            <v-list class="blue lighten-3">
-              <v-list-item>
-                <v-list-item-subtitle class="headline2 mb-1">
-                  <span style="color: blue">{{ item.created_at }}</span>
-                </v-list-item-subtitle>
-
-                <v-card-actions class="text-right">
-                  <v-btn @click="GetUnitDetail(item.id)" text>Detail</v-btn>
-                </v-card-actions>
-              </v-list-item>
-            </v-list>
-
-            <v-divider light></v-divider>
-            <v-list-item three-line>
-              <v-list-item-avatar tile size="150" color="grey">
-                <v-img :src="$url_img + item.foto_1"></v-img>
-              </v-list-item-avatar>
-              <v-list-item-content>
-                <div
-                  class="overline mb-4"
-                  style="color: indigo darken-4"
-                >{{ UnitsDetail.nama_pengguna }}</div>
-
-                <v-list-item-title class="headline2 mb-1">{{ item.type }}</v-list-item-title>
-                <v-list-item-subtitle>
-                  <span style="color: red">{{ item.merk }}</span>
-                  Tahun {{ item.tahun }}
-                </v-list-item-subtitle>
-              </v-list-item-content>
-              <v-list-item-content>
-                <div class="overline mb-4">{{ item.moderasi_status }}</div>
-
-                <v-list-item-title class="headline2 mb-1">Lokasi Dealer</v-list-item-title>
-                <v-list-item-subtitle>
-                  <span style="color: blue">
-                    <b>{{ item.lokasi }}</b>
-                  </span>
-                </v-list-item-subtitle>
-              </v-list-item-content>
-              <v-list-item-content>
-                <div class="overline mb-4"></div>
-
-                <v-list-item-title class="headline2 mb-1">No. Polisi</v-list-item-title>
-                <v-list-item-subtitle>
-                  <span style="color: blue">
-                    <b>{{ item.nomor_polisi }}</b>
-                  </span>
-                </v-list-item-subtitle>
-              </v-list-item-content>
-              <v-list-item-content>
-                <div class="overline mb-4"></div>
-
-                <v-list-item-title class="headline2 mb-1">Status Moderasi</v-list-item-title>
-                <v-list-item-subtitle>
-                  <span style="color: red">
-                    <b>{{ item.status }}</b>
-                  </span>
-                </v-list-item-subtitle>
-              </v-list-item-content>
-            </v-list-item>
-      </v-card>-->
-      <!-- </div>
-      </div>-->
-
       <section class="feature_area" id="about">
         <div class="container">
-          <div class="row">
-            <div class="col-md-4">
-              <img src="images/mobilefront.png" width="300px" />
+          <div class="row section-title">
+            <div class="col-md-5 col-lg-5 col-sm-5">
+              <img src="images/mobilefront.png" width="280px" />
             </div>
 
-            <div class="col-lg-6 col-md-4 col-sm-6">
-              <div class="f_icon">
-                <img src="images/mobilehand.png" width="80px" />
-              </div>
+            <div class="col-lg-6 col-md-6 col-sm-6">
               <div class="container">
-                <h2>Apa itu SiMotor?</h2>
+                <div class="section-title">
+                  <img src="images/mobilehand.png" width="92px" />
+                  <h2>Apa itu SiMotor?</h2>
 
-                <p>
-                  Sepeda motor sudah menjadi gaya hidup atau lifestyle masyarakat di Indonesia, benar nggak?
-                  Oleh karena itu, kebutuhan akan sepeda motor juga meningkat dan kamu pasti ingin motor yang bagus dan berkualitas kan?
-                  Disinilah SiMotor hadir sebagai jawaban. Beli motor jadi semakin mudah, cepat, dan berkualitas.
-                </p>
+                  <p>
+                    Sepeda motor sudah menjadi gaya hidup atau lifestyle masyarakat di Indonesia, benar nggak?
+                    Oleh karena itu, kebutuhan akan sepeda motor juga meningkat dan kamu pasti ingin motor yang bagus dan berkualitas kan?
+                    Disinilah SiMotor hadir sebagai jawaban. Beli motor jadi semakin mudah, cepat, dan berkualitas.
+                  </p>
+                </div>
               </div>
             </div>
           </div>
@@ -174,7 +97,7 @@
           </div>
           <ul class="nav nav-tabs nav-justified pd-gradient" role="tablist">
             <li class="nav-item">
-              <a class="nav-link active" data-toggle="tab" href="#iklan">1. Register/Login</a>
+              <a class="nav-link active" data-toggle="tab" href="#iklan">1. Register / Login</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" data-toggle="tab" href="#schedule">2. Pasang Iklan</a>

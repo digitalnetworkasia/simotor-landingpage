@@ -10,9 +10,9 @@
 
     <div class="site-section bn-gradient">
       <div class="container">
+        <br />
         <div class="row mb-5 justify-content-center">
           <div class="col-md-10 text-center white-gradient">
-            <br />
             <p>
               Panduan Penggunaan bertujuan untuk memudahkan pengguna dalam menggunakan aplikasi SiMotor. Panduan penggunaan
               terdiri dari dua (2) yaitu panduan penggunaan aplikasi SiMotor untuk Pembeli dan panduan penggunaan aplikasi SiMotor untuk penjual.

@@ -10,10 +10,9 @@
 
     <div class="site-section bn-gradient">
       <div class="container">
+        <br />
         <div class="row mb-5 justify-content-center">
           <div class="col-md-10 text-center white-gradient">
-            <!-- <h2>Tentang SiMotor</h2> -->
-            <br />
             <p>SiMotor adalah platform pertama di Indonesia yang berfokus pada penjualan motor dengan metode tawar bersama. SiMotor, senantiasa berusaha mewujudkan sebuah lingkungan yang terpercaya dan terbaik, baik untuk para penjual maupun para pembeli. Oleh karena itu ada beberapa poin yang perlu diperhatikan untuk penjual ketika memasang iklan:</p>
 
             <p
@@ -43,3 +42,6 @@
     </div>
   </div>
 </template>
+<script>
+export default {};
+</script>

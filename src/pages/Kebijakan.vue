@@ -10,10 +10,9 @@
 
     <div class="site-section bn-gradient">
       <div class="container">
+        <br />
         <div class="row mb-5 justify-content-center">
           <div class="col-md-10 text-center white-gradient">
-            <!-- <h2>Kebijakan Privasi</h2> -->
-            <br />
             <p class="font-weight-bold">Simotor ‐ Pernyataan Privasi</p>
             <p>
               Kami peduli dengan privasi Anda dan berkomitmen untuk melindungi data pribadi Anda. Pernyataan privasi ini akan memberitahu
