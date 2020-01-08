@@ -5,13 +5,14 @@
         <img src="images/logosimotor.png" width="300px" class="img-fluid" />
         <br />
         <br />
-        <a href="/">
+        <a href="https://play.google.com/store/apps/details?id=com.digitalnetworkasia.simotorbeta">
           <img src="images/playstore.png" width="200px" />
         </a>
       </div>
       <br />
+      <br />
     </header>
-    <br />
+
     <div>
       <section class="feature_area" id="about">
         <div class="container">
@@ -25,7 +26,6 @@
                 <div class="section-title">
                   <img src="images/mobilehand.png" width="92px" />
                   <h2>Apa itu SiMotor?</h2>
-
                   <p>
                     Sepeda motor sudah menjadi gaya hidup atau lifestyle masyarakat di Indonesia, benar nggak?
                     Oleh karena itu, kebutuhan akan sepeda motor juga meningkat dan kamu pasti ingin motor yang bagus dan berkualitas kan?

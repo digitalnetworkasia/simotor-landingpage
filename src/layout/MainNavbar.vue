@@ -1,6 +1,9 @@
 <template>
   <div>
-    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #085753;">
+    <nav
+      class="navbar navbar-expand-lg navbar-dark navbar-collapse"
+      style="background-color: #085753;"
+    >
       <img src="images/logo.png" width="30px" alt="logo" />
       <button
         class="navbar-toggler"
@@ -14,7 +17,7 @@
         <span class="navbar-toggler-icon"></span>
       </button>
 
-      <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+      <div class="collapse navbar-collapse" id="main-navbar" v-bind:class="{ in: show }">
         <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
           <li class="nav-item active">
             <a class="nav-link active" href="/" target="_blank">
@@ -50,5 +53,16 @@
 </template>
 
 <script>
-export default {};
+export default {
+  name: "Header",
+  props: {
+    msg: String
+  },
+  methods: {
+    toggleNavbar() {
+      this.navbarOpen = !this.navbarOpen;
+    }
+  },
+  computed: {}
+};
 </script>

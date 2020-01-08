@@ -12,7 +12,9 @@
                   class="footer_text"
                 >SiMotor adalah platform pertama di Indonesia yang berfokus pada penjualan motor dengan metode tawar bersama.</p>
                 <p class="footer_text">Download di PlayStore :</p>
-                <a href="/">
+                <a
+                  href="https://play.google.com/store/apps/details?id=com.digitalnetworkasia.simotorbeta"
+                >
                   <img src="images/playstore.png" width="200px" class="img-fluid" />
                 </a>
               </div>
