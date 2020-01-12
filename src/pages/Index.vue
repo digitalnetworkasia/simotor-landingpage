@@ -66,7 +66,11 @@
                   Fitur harga pas berguna banget untuk kamu yang nggak mau ribet menawar unit.
                   Penasaran? Yuk klik tombol dibawah!
                 </p>
-                <a href="#hargapas" target="_blank" class="btn btn-blue">Lihat Selengkapnya</a>
+                <a
+                  href="http://simotor.id/#/hargapas"
+                  target="_self"
+                  class="btn btn-blue"
+                >Lihat Selengkapnya</a>
               </div>
             </div>
 
@@ -80,7 +84,11 @@
                   Jika kamu memiliki tiket tawar bersama kamu dapat menggunakan fitur ini.
                   Penasaran? Yuk klik tombol dibawah!
                 </p>
-                <a href="#tawarbersama" target="_blank" class="btn btn-blue">Lihat Selengkapnya</a>
+                <a
+                  href="http://simotor.id/#/tawarbersama"
+                  target="_self"
+                  class="btn btn-blue"
+                >Lihat Selengkapnya</a>
               </div>
             </div>
           </div>

@@ -25,14 +25,18 @@
                 <h4 class="footer_title">Link</h4>
                 <ul class="list">
                   <li>
-                    <a class="footer_text" href="/" target="_blank">Home</a>
+                    <a class="footer_text" href="http://simotor.id/#/" target="_self">Home</a>
                   </li>
 
                   <li>
-                    <a class="footer_text" href="#faq" target="_blank">FAQ</a>
+                    <a class="footer_text" href="http://simotor.id/#/faq" target="_self">FAQ</a>
                   </li>
                   <li>
-                    <a class="footer_text" href="#kodeetik" target="_blank">Kode Etik Pengguna</a>
+                    <a
+                      class="footer_text"
+                      href="http://simotor.id/#/kodeetik"
+                      target="_self"
+                    >Kode Etik Pengguna</a>
                   </li>
                 </ul>
               </div>
@@ -42,22 +46,34 @@
                 <h4 class="footer_title">Tentang Kami</h4>
                 <ul class="list">
                   <li>
-                    <a class="footer_text" href="#tentang" target="_blank">Tentang Simotor</a>
+                    <a
+                      class="footer_text"
+                      href="http://simotor.id/#/tentang"
+                      target="_self"
+                    >Tentang Simotor</a>
                   </li>
                   <li>
-                    <a class="footer_text" href="#kebijakan" target="_blank">Kebijakan Privasi</a>
+                    <a
+                      class="footer_text"
+                      href="http://simotor.id/#/kebijakan"
+                      target="_self"
+                    >Kebijakan Privasi</a>
                   </li>
                   <!-- <li>
                     <a class="footer_text" href="#products">Tips Aman</a>
                   </li>-->
                   <li>
-                    <a class="footer_text" href="#laranganiklan" target="_blank">Larangan Iklan</a>
+                    <a
+                      class="footer_text"
+                      href="http://simotor.id/#/laranganiklan"
+                      target="_self"
+                    >Larangan Iklan</a>
                   </li>
                   <li>
                     <a
                       class="footer_text"
-                      href="#syaratketentuan"
-                      target="_blank"
+                      href="http://simotor.id/#/syaratketentuan"
+                      target="_self"
                     >Syarat dan Ketentuan</a>
                   </li>
                   <!-- <li>
@@ -81,7 +97,8 @@
                   <p class="footer_text">
                     <span>
                       <font-awesome-icon icon="phone" />
-                    </span> 021-30490087
+                    </span>
+                    <a class="footer_text" href="tel:02130490087">(021) - 30490087</a>
                   </p>
 
                   <p class="footer_text">

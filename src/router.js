@@ -2,7 +2,7 @@ import Vue from 'vue';
 import Router from 'vue-router';
 import Index from './pages/Index.vue';
 import Kebijakan from './pages/Kebijakan.vue';
-import MainNavbar from './layout/MainNavbar.vue';
+// import MainNavbar from './layout/MainNavbar.vue';
 import MainFooter from './layout/MainFooter.vue';
 import FooterProduct from './layout/FooterProduct.vue'
 import Products from './pages/Product.vue'
@@ -27,7 +27,7 @@ export default new Router({
         {
             path: '/',
             name: 'index',
-            components: { default: Index, header: MainNavbar, footer: MainFooter },
+            components: { default: Index, header: NavbarProduct, footer: MainFooter },
             props: {
                 header: { colorOnScroll: 400 },
                 footer: { backgroundColor: 'black' }
