@@ -24,9 +24,23 @@
             </p>
             <p>
               <a
-                href="/images/Panduan Penggunaan Aplikasi SiMotor PEMBELI ver1-0-0 (1).pdf"
+                href="/images/Panduan Penggunaan Aplikasi SiMotor PEMBELI ver1-0-1.pdf"
                 download
               >Download disini</a>
+            </p>
+            <p class="font-weight-bold h6">
+              Panduan Penggunaan Aplikasi SiMotor
+              ‘Sebagai Penjual’
+            </p>
+            <p>
+              <a href="http://simotor.id/#/panduan2" target="_self">Klik disini</a>
+            </p>
+            <p class="font-weight-bold h6">Video Tutorial SiMotor</p>
+            <p>
+              <a
+                href="https://www.youtube.com/channel/UCBExlB0xnMoTDT8LwVKg9oA/videos"
+                target="_blank"
+              >Klik disini</a>
             </p>
             <p class="ml-2 ml-lg-2 md-2 font-weight-bold">1. PENDAFTARAN</p>
             <p class="ml-3 ml-lg-3 md-3">1.1. Pendaftaran via nomor handphone (HP).</p>
@@ -42,18 +56,7 @@
             <img src="images/tutorial1.png" width="600px" class="img-fluid" />
             <br />
             <br />
-            <p class="ml-3 ml-lg-3 md-3 font-weight-bold">1.2. Pendaftaran via akun Google</p>
-            <p class="ml-4 ml-lg-4 md-4">1.2.1. Pada halaman Login & Sign Up, pilih tab Sign Up</p>
-            <p class="ml-4 ml-lg-4 md-4">1.2.2. Klik Tombol Google</p>
-            <p
-              class="ml-4 ml-lg-4 md-4"
-            >1.2.3. Pilih akun Google yang terdapat di perangkat Anda untuk didaftarkan di aplikasi SiMotor</p>
-            <p
-              class="ml-4 ml-lg-4 md-4"
-            >1.2.4. Setelah akun Google Anda terdaftar di aplikasi SiMotor, Anda akan masuk ke halaman utama</p>
-            <img src="images/tutorial2.png" width="600px" class="img-fluid" />
-            <br />
-            <br />
+
             <p class="ml-2 ml-lg-2 md-2 font-weight-bold">2. LOGIN</p>
             <p class="ml-3 ml-lg-3 md-3 font-weight-bold">2.1. Login via nomor handphone (HP)</p>
             <p class="ml-4 ml-lg-4 md-4">2.1.1. Pada halaman Login & Sign Up, pilih tab Login</p>
@@ -68,20 +71,7 @@
             </p>
             <img src="images/tutorial3.png" width="600px" class="img-fluid" />
             <br />
-            <br />
-
-            <p class="ml-3 ml-lg-3 md-3 font-weight-bold">2.2. Login via akun Google</p>
-            <p class="ml-3 ml-lg-3 md-3">2.2.1. Pada halaman Login & Sign Up, pilih tab Login</p>
-            <p class="ml-3 ml-lg-3 md-3">2.2.2. Klik Tombol Google</p>
-            <p
-              class="ml-3 ml-lg-3 md-3"
-            >2.2.3. Pilih akun Google yang terdapat di perangkat Anda untuk didaftarkan di aplikasi SiMotor</p>
-            <p
-              class="ml-3 ml-lg-3 md-3"
-            >2.2.4. Setelah akun Google Anda login di aplikasi SiMotor, Anda akan masuk ke halaman utama</p>
-            <img src="images/tutorial4.png" width="600px" class="img-fluid" />
-            <br />
-            <br />
+            <br />]
             <p class="ml-2 ml-lg-2 md-2 font-weight-bold">3. PENELUSURAN IKLAN</p>
             <p class="ml-2 ml-lg-2 md-2">Anda bisa menelusuri iklan motor yang dijual dengan 2 cara:</p>
             <p class="ml-3 ml-lg-3 md-3">3.1. Menelusuri iklan dari halaman utama</p>

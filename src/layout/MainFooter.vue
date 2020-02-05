@@ -112,6 +112,12 @@
                       href="mailto:support@simotor.id?subject=Pengaduan Customer SiMotor &body=Nama: "
                     >support@simotor.id</a>
                   </p>
+                  <p class="footer_text">
+                    <a class="footer_text" href="https://api.whatsapp.com/send?phone=6282123052400">
+                      <img src="images/whatsapp.png" />
+                      <span class="text">&nbsp; +6282123052400</span>
+                    </a>
+                  </p>
                 </div>
               </div>
             </div>

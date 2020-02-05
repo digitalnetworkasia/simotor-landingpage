@@ -1,9 +1,6 @@
 <template>
   <div>
-    <nav
-      class="navbar navbar-expand-lg navbar-dark navbar-collapse"
-      style="background-color: #085753;"
-    >
+    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: rgb(21, 46, 48);">
       <img src="images/logo.png" width="30px" alt="logo" />
       <button
         class="navbar-toggler"
@@ -17,10 +14,10 @@
         <span class="navbar-toggler-icon"></span>
       </button>
 
-      <div class="collapse navbar-collapse" id="main-navbar" v-bind:class="{ in: show }">
+      <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
         <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
           <li class="nav-item active">
-            <a class="nav-link active" href="/" target="_blank">
+            <a class="nav-link active" href="http://simotor.id/#/" target="_self">
               HOME
               <span class="sr-only">(current)</span>
             </a>
@@ -29,18 +26,24 @@
             <a class="nav-link" href="#products" target="_blank">PRODUCT</a>
           </li>-->
           <b-nav-item-dropdown text="FEATURES">
-            <b-dropdown-item href="#hargapas" target="_blank">Harga Pas</b-dropdown-item>
-            <b-dropdown-item href="#tawarbersama" target="_blank">Tawar Bersama</b-dropdown-item>
+            <b-dropdown-item href="http://simotor.id/#/hargapas" target="_self">Harga Pas</b-dropdown-item>
+            <b-dropdown-item href="http://simotor.id/#/tawarbersama" target="_self">Tawar Bersama</b-dropdown-item>
           </b-nav-item-dropdown>
           <li class="nav-item">
-            <a class="nav-link" href="#faq" target="_blank">FAQ</a>
+            <a class="nav-link" href="http://simotor.id/#/faq" target="_self">FAQ</a>
           </li>
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <a class="nav-link" href="#contact" target="_blank">CONTACT</a>
-          </li>
+          </li>-->
           <b-nav-item-dropdown text="PANDUAN PENGGUNA">
-            <b-dropdown-item href="#panduan" target="_blank">PANDUAN PENGGUNA PEMBELI</b-dropdown-item>
-            <b-dropdown-item href="#panduan2" target="_blank">PANDUAN PENGGUNA PENJUAL</b-dropdown-item>
+            <b-dropdown-item
+              href="http://simotor.id/#/panduan"
+              target="_self"
+            >PANDUAN PENGGUNA PEMBELI</b-dropdown-item>
+            <b-dropdown-item
+              href="http://simotor.id/#/panduan2"
+              target="_self"
+            >PANDUAN PENGGUNA PENJUAL</b-dropdown-item>
           </b-nav-item-dropdown>
         </ul>
         <!-- <form class="form-inline my-2 my-lg-0">
@@ -51,18 +54,5 @@
     </nav>
   </div>
 </template>
-
-<script>
-export default {
-  name: "Header",
-  props: {
-    msg: String
-  },
-  methods: {
-    toggleNavbar() {
-      this.navbarOpen = !this.navbarOpen;
-    }
-  },
-  computed: {}
-};
-</script>
+  <script>
+</script> 

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #085753;">
+    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: rgb(21, 46, 48);">
       <img src="images/logo.png" width="30px" alt="logo" />
       <button
         class="navbar-toggler"
@@ -42,7 +42,7 @@
             >PANDUAN PENGGUNA PEMBELI</b-dropdown-item>
             <b-dropdown-item
               href="http://simotor.id/#/panduan2"
-              target="_blank"
+              target="_self"
             >PANDUAN PENGGUNA PENJUAL</b-dropdown-item>
           </b-nav-item-dropdown>
         </ul>

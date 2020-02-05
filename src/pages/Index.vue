@@ -1,8 +1,8 @@
 <template>
   <div>
     <header class="bg-gradient" id="home">
-      <div class="container mt-5">
-        <img src="images/logosimotor.png" width="300px" class="img-fluid" />
+      <div class="container">
+        <img src="images/logo-putih.png" width="400px" class="img-fluid" />
         <br />
         <br />
         <a href="https://play.google.com/store/apps/details?id=com.digitalnetworkasia.simotorbeta">
@@ -14,7 +14,7 @@
     </header>
 
     <div>
-      <section class="feature_area" id="about">
+      <section class="pd-gradient feature_area" id="about">
         <div class="container">
           <div class="row section-title">
             <div class="col-md-5 col-lg-5 col-sm-5">
@@ -41,7 +41,7 @@
       <section class="feature_area" id="features">
         <div class="container">
           <div class="section-title">
-            <img src="images/icons.png" width="92px" alt />
+            <img src="images/icon.png" width="92px" alt />
             <h6>Apa aja fitur unggulan SiMotor?</h6>
             <h2>Fitur SiMotor</h2>
           </div>
@@ -322,48 +322,6 @@
 </template>
 
 <script>
-export default {
-  //   name: "iklan",
-  //   data() {
-  //     return {
-  //       loading: false,
-  //       RenderIklan: true,
-  //       IklanSimotor: [],
-  //       page: 1,
-  //       pageCount: 0,
-  //       itemPerPage: 0
-  //     };
-  //   },
-  //   async mounted() {
-  //     this.GetIklanSimotor();
-  //   },
-  //   methods: {
-  //     async Reload() {
-  //       await this.GetIklanSimotor();
-  //       this.forceRerender();
-  //     },
-  //     forceRerender() {
-  //       this.RenderIklan = false;
-  //       this.$nextTick(() => {
-  //         this.RenderIklan = true;
-  //       });
-  //     }
-  //   },
-  //   async GetIklanSimotor(id) {
-  //     const iklan = await this.$iklan.get("/v1/search", {
-  //       params: {
-  //         id: id,
-  //         limit: 100
-  //       }
-  //     });
-  //     // .then(response => (this.IklanSimotor = response.data.data))
-  //     // .catch(error => {
-  //     //   // this.$store.commit('TOGGLE_LOADING')
-  //     //   console.log(error);
-  //     // });
-  //     this.IklanSimotor = iklan.data.data;
-  //   }
-  // };
-};
+export default {};
 </script>
 
