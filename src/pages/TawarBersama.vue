@@ -25,6 +25,9 @@
               Keuntungannya adalah kamu dapat melakukan penawaran sehingga harga dan barang yang akan kamu beli sesuai dengan kebutuhan kamu.
               Tawar bersama terdiri dari 2 (dua) yaitu tawar bersama satuan dan tawar bersama paketan. Perbedaaannya hanya pada jumlah unit motor yang dijual.
             </p>
+            <p>Selain itu, tawar bersama terdiri dari tawar bersama terbuka dan tawar bersama tertutup.</p>
+            <p>Tawar bersama terbuka berarti penawar maupun penjual bisa melihat setiap penawaran yang masuk untuk iklan ini. Penawar terakhir tertinggi ketika iklan berakhir adalah pemenangnya.</p>
+            <p>Sedangkan untuk tawar bersama tertutup artinya penawar maupun penjual tidak bisa melihat nilai penawaran yang masuk untuk iklan ini. Informasi yang bisa dilihat adalah banyaknya penawaran yang masuk dan bagi penawar angka penawaran terakhir miliknya sendiri bisa dilihat. Penawar tertinggi ketika iklan berakhir adalah pemenangnya, namun jika ada dua nilai tertinggi yang sama maka penawaran yang masuk terlebih dahulu yang terpilih sebagai pemenangnya.</p>
           </div>
         </div>
       </div>

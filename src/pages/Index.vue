@@ -47,15 +47,6 @@
           </div>
 
           <div class="row feature_inner">
-            <!-- <div class="col-lg-4 col-sm-6">
-              <div class="feature_item">
-                <div class="f_icon">
-                  <img src="images/tools-color.png" alt />
-                </div>
-                <h4>Bengkel Terdekat</h4>
-                <p>Butuh bengkel terdekat? atau butuh info tentang spare part motor? cek di simotor aja! udah ada fitur bengkel terdekat loh</p>
-              </div>
-            </div>-->
             <div class="col-lg-6 col-sm-6">
               <div class="feature_item">
                 <div class="f_icon">
@@ -128,7 +119,7 @@
                   <p>
                     Kamu harus mengunduh aplikasi SiMotor terlebih dahulu di Google PlayStore sebelum melakukan login atau registrasi pada aplikasi.
                     Setelah itu kamu dapat melakukan registrasi akun dengan menggunakan
-                    nomor handphone, atau kamu juga dapat menggunakan akun Google kamu.
+                    nomor handphone, SiMotor akan mengirimkan kode OTP untuk verifikasi akunmu. Jangan lupa untuk memasukkan kode OTP tersebut ya.
                   </p>
                 </div>
               </div>
@@ -181,147 +172,28 @@
           </div>
         </div>
       </div>
-      <!-- <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <img src="images/banner1.png" class="d-block w-75 align-middle" alt="..." />
-          </div>
-          <div class="carousel-item">
-            <img src="images/banner2s.png" class="d-block w-75 align-middle" alt="..." />
-          </div>
-          <div class="carousel-item">
-            <img src="images/vario.jpeg" class="d-block w-50" alt="..." />
-          </div>
-        </div>
-        <a
-          class="carousel-control-prev"
-          href="#carouselExampleControls"
-          role="button"
-          data-slide="prev"
-        >
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only">Previous</span>
-        </a>
-        <a
-          class="carousel-control-next"
-          href="#carouselExampleControls"
-          role="button"
-          data-slide="next"
-        >
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only">Next</span>
-        </a>
-      </div>-->
-      <!-- // end .section -->
-      <!-- // end .section
-      <div class="section light-bg">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-8 col-sm-8 d-flex align-items-center">
-              <ul class="list-unstyled ui-steps">
-                <li class="media">
-                  <div class="circle-icon mr-4">1</div>
-                  <div class="media-body">
-                    <h5>Download Aplikasi</h5>
-                    <p>Download dan install aplikasi simotor di google playstore.</p>
-                  </div>
-                </li>
-                <li class="media my-4">
-                  <div class="circle-icon mr-4">2</div>
-                  <div class="media-body">
-                    <h5>Login</h5>
-                    <p>Lakukan login (Masukkan Nomor telepon untuk yang belum melakukan registrasi).</p>
-                  </div>
-                </li>
-                <li class="media">
-                  <div class="circle-icon mr-4">3</div>
-                  <div class="media-body">
-                    <h5>Klik Iklan</h5>
-                    <p>Klik iklan yang akan dibeli.</p>
-                  </div>
-                </li>
-                <li class="media my-4">
-                  <div class="circle-icon mr-4">4</div>
-                  <div class="media-body">
-                    <h5>Klik "beli"</h5>
-                    <p>Klik beli pada iklan yang diinginkan.</p>
-                  </div>
-                </li>
-                <li class="media">
-                  <div class="circle-icon mr-4">5</div>
-                  <div class="media-body">
-                    <h5>Transaksi ke penjual</h5>
-                    <p>Lakukan transaksi langsung ke penjual.</p>
-                  </div>
-                </li>
-              </ul>
-            </div>
-            <div class="col-md-4">
-              <img src="images/samsung1.png" alt="handphone" class="img-fluid" />
-            </div>
-          </div>
-        </div>
-      </div>
-      -->
-      <!-- //
-      <div class="section light-bg" id="gallery">
-        <div class="container">
-          <div class="section-title">
-            <small>GALLERY</small>
-            <h3>App Screenshots</h3>
-          </div>
-
-          <div class="img-gallery owl-carousel owl-theme">
-            <img src="images/screen1.jpg" alt="image" />
-            <img src="images/screen2.jpg" alt="image" />
-            <img src="images/screen3.jpg" alt="image" />
-            <img src="images/screen1.jpg" alt="image" />
-          </div>
-        </div>
-      </div>
-      end .section-->
-
-      <!-- <div class="section pt-0" id="faq">
-        <div class="container">
-          <div class="section-title">
-            <small>FAQ</small>
-            <h3>Frequently Asked Questions</h3>
-          </div>
-
-          <div class="row pt-4">
-            <div class="col-md-6">
-              <h4 class="mb-3">Kapan batas maksimal pembayaran tiket?</h4>
-              <p
-                class="light-font mb-5"
-              >Batas maksimal pembayaran tiket adalah 3 x 24 Jam. Setelah itu, tiket akan hangus.</p>
-              <h4 class="mb-3">Apakah HOAX?</h4>
-              <p
-                class="light-font mb-5"
-              >Aplikasi SIMOTOR bukan hoax! Simotor adalah aplikasi online terpercaya yang sudah bekerja sama dengan dealer</p>
-            </div>
-            <div class="col-md-6">
-              <h4 class="mb-3">Can I change my plan later?</h4>
-              <p class="light-font mb-5">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rutrum,
-                urna eu pellentesque pretium, nisi nisi fermentum enim, et sagittis dolor nulla vel sapien.
-                Vestibulum sit amet mattis ante.
-              </p>
-              <h4 class="mb-3">Do you have a contract?</h4>
-              <p class="light-font mb-5">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rutrum,
-                urna eu pellentesque pretium, nisi nisi fermentum enim, et sagittis dolor nulla vel sapien.
-                Vestibulum sit amet mattis ante.
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>-->
-      <!-- // end .section -->
     </div>
   </div>
 </template>
 
 <script>
-export default {};
+export default {
+  showBanners() {
+    this.axios
+      .get("http://116.197.129.222:80/master/v2/mst_banner")
+      .then(response => {
+        let { data } = response.data;
+        // this.banners = data;
+
+        for (let index = 0; index < data.length; index++) {
+          const element = data[index].foto;
+          this.banners.push({ src: element });
+        }
+      });
+  },
+  created() {
+    this.showBanners();
+  }
+};
 </script>
 

@@ -108,9 +108,9 @@
                     support@simotor.id
                   </p>
                   <p class="footer_text">
-                    <a class="footer_text" href="https://api.whatsapp.com/send?phone=6282123052400">
+                    <a class="footer_text" href="https://api.whatsapp.com/send?phone=628111873434">
                       <img src="images/whatsapp.png" />
-                      <span class="text">&nbsp; +6282123052400</span>
+                      <span class="text">&nbsp; +628111873434</span>
                     </a>
                   </p>
                 </div>

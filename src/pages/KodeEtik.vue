@@ -2,7 +2,7 @@
   <div>
     <header class="bg-gradient">
       <div class="container mt-3">
-        <img src="images/banner web kodeetik.png" width="800px" class="img-fluid" />
+        <img src="images/banner web kodeetik.png" width="600px" class="img-fluid" />
         <br />
         <br />
       </div>
