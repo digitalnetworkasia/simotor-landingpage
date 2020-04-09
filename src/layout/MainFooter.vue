@@ -31,14 +31,10 @@
                     <a class="footer_text" href="#features">Features</a>
                   </li>
                   <li>
-                    <a class="footer_text" href="http://simotor.id/#/faq" target="_self">FAQ</a>
+                    <a class="footer_text" href="/#/faq" target="_self">FAQ</a>
                   </li>
                   <li>
-                    <a
-                      class="footer_text"
-                      href="http://simotor.id/#/kodeetik"
-                      target="_self"
-                    >Kode Etik Pengguna</a>
+                    <a class="footer_text" href="/#/kodeetik" target="_self">Kode Etik Pengguna</a>
                   </li>
                 </ul>
               </div>
@@ -48,33 +44,21 @@
                 <h4 class="footer_title">Tentang Kami</h4>
                 <ul class="list">
                   <li>
-                    <a
-                      class="footer_text"
-                      href="http://simotor.id/#/tentang"
-                      target="_self"
-                    >Tentang Simotor</a>
+                    <a class="footer_text" href="/#/tentang" target="_self">Tentang Simotor</a>
                   </li>
                   <li>
-                    <a
-                      class="footer_text"
-                      href="http://simotor.id/#/kebijakan"
-                      target="_self"
-                    >Kebijakan Privasi</a>
+                    <a class="footer_text" href="/#/kebijakan" target="_self">Kebijakan Privasi</a>
                   </li>
                   <!-- <li>
                     <a class="footer_text" href="#products">Tips Aman</a>
                   </li>-->
                   <li>
-                    <a
-                      class="footer_text"
-                      href="http://simotor.id/#/laranganiklan"
-                      target="_self"
-                    >Larangan Iklan</a>
+                    <a class="footer_text" href="/#/laranganiklan" target="_self">Larangan Iklan</a>
                   </li>
                   <li>
                     <a
                       class="footer_text"
-                      href="http://simotor.id/#/syaratketentuan"
+                      href="/#/syaratketentuan"
                       target="_self"
                     >Syarat dan Ketentuan</a>
                   </li>

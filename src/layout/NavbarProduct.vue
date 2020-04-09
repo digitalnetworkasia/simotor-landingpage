@@ -26,24 +26,18 @@
             <a class="nav-link" href="#products" target="_blank">PRODUCT</a>
           </li>-->
           <b-nav-item-dropdown text="FEATURES">
-            <b-dropdown-item href="http://simotor.id/#/hargapas" target="_self">Harga Pas</b-dropdown-item>
-            <b-dropdown-item href="http://simotor.id/#/tawarbersama" target="_self">Tawar Bersama</b-dropdown-item>
+            <b-dropdown-item href="/#/hargapas" target="_self">Harga Pas</b-dropdown-item>
+            <b-dropdown-item href="/#/tawarbersama" target="_self">Tawar Bersama</b-dropdown-item>
           </b-nav-item-dropdown>
           <li class="nav-item">
-            <a class="nav-link" href="http://simotor.id/#/faq" target="_self">FAQ</a>
+            <a class="nav-link" href="/#/faq" target="_self">FAQ</a>
           </li>
           <!-- <li class="nav-item">
             <a class="nav-link" href="#contact" target="_blank">CONTACT</a>
           </li>-->
           <b-nav-item-dropdown text="PANDUAN PENGGUNA">
-            <b-dropdown-item
-              href="http://simotor.id/#/panduan"
-              target="_self"
-            >PANDUAN PENGGUNA PEMBELI</b-dropdown-item>
-            <b-dropdown-item
-              href="http://simotor.id/#/panduan2"
-              target="_self"
-            >PANDUAN PENGGUNA PENJUAL</b-dropdown-item>
+            <b-dropdown-item href="/#/panduan" target="_self">PANDUAN PENGGUNA PEMBELI</b-dropdown-item>
+            <b-dropdown-item href="/#/panduan2" target="_self">PANDUAN PENGGUNA PENJUAL</b-dropdown-item>
           </b-nav-item-dropdown>
         </ul>
         <!-- <form class="form-inline my-2 my-lg-0">

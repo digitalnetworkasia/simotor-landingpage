@@ -79,8 +79,8 @@ export default new Router({
             }
         },
         {
-            path: '/tawarbersama',
-            name: 'tawarbersama',
+            path: '/tawarbersama2',
+            name: 'tawarbersama2',
             components: { default: TawarBersama, header: NavbarProduct, footer: FooterProduct },
             props: {
                 header: { colorOnScroll: 400 },
